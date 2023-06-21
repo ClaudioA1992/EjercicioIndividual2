@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primera App</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+</resources>
